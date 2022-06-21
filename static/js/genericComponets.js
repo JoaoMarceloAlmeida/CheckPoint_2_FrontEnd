@@ -15,7 +15,7 @@ nav.innerHTML =
 
 
     <!-- botão sanduiche do menu responsivo - via bootstrap -->
-    <button type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" class="navbar-toggler "
+    <button type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" class="navbar-toggler"
       aria-controls="navbarNav" area-expended="false" aria-label="toggle-navigation">
       <span class="navbar-toggler-icon "></span>
     </button>
@@ -26,7 +26,7 @@ nav.innerHTML =
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="nav navbar-nav">
         <li class="navItem active">
-          <a href="index.html" class="navLink">
+          <a href="./../index.html" class="navLink">
             Home
           </a>
         </li>
@@ -36,12 +36,12 @@ nav.innerHTML =
           </a>
         </li>
         <li class="navItem active">
-          <a href="pages/sobre.html" class="navLink">
+          <a href="./../pages/sobre.html" class="navLink">
             Sobre
           </a>
         </li>
         <li class="navItem active">
-          <a href="pages/login.html" class="navLink">
+          <a href="./pages/login.html" class="navLink">
             Login
           </a>
         </li>
