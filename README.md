@@ -3,7 +3,7 @@
     
 Acesse o prototipo do projeto através do link :
     
--------''-------
+(https://joaomarceloalmeida.github.io/CheckPoint_2_FrontEnd/)
 
     
 <div align="start">
