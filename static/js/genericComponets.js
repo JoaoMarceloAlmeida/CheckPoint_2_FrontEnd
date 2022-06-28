@@ -69,22 +69,22 @@ foot.innerHTML =
     </div>
 
     <div class="aluno">
-    <p>Tiago Pincer</p>
+    <p>João Marcelo</p>
 
-    <a target="_blank" href="https://github.com/tpincer" class="social">
+    <a target="_blank" href="https://github.com/JoaoMarceloAlmeida" class="social">
         <i class="bi bi-github"></i>
     </a>
-    <a target="_blank" href="https://www.linkedin.com/in/tiago-pincer-b48a11174/" class="social">
+    <a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3omarceloalmeidasouza/" class="social">
         <i class="bi bi-linkedin"></i></a>
 </div>
 
 <div class="aluno">
-<p>Tiago Pincer</p>
+<p>Leonardo Barcellos</p>
 
-<a target="_blank" href="https://github.com/tpincer" class="social">
+<a target="_blank" href="https://github.com/LeoFelino" class="social">
     <i class="bi bi-github"></i>
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/tiago-pincer-b48a11174/" class="social">
+<a target="_blank" href="https://www.linkedin.com/in/leofelino" class="social">
     <i class="bi bi-linkedin"></i></a>
 </div>
 
